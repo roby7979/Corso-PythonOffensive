@@ -14,7 +14,7 @@ STRUTTURA DEL CORSO:
 
 # CONCETTI DI BASE
 1. Introduzione
-2. Differenza Python2 e Python3 uso del PIP
+2. Differenza tra Python2 e Python3, uso del PIP
 3. Print e esercizi
 4. Strings e esercizi
 5. Input e esercizi
@@ -40,13 +40,13 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# PROGRAMMAZIONE ORIENTATA A OGGETTI (POO)
+# PROGRAMMAZIONE ORIENTATA A OGGETTI (OOP)
 21. Classi e Oggetti
-22. Metodo statico e Metodo Classe
-23. Uso del Self
-24. Eredita' e Polimorfismo
+22. Metodo statico e Metodo classe
+23. Self
+24. Ereditarietà e Polimorfismo
 25. Incapsulamento e metodi speciali
-26. Decorazioni proprieta
+26. Decorator
 
 ---
 
@@ -57,14 +57,14 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# ENTRATA E USCITA DATI
-30. Dati: Input per tastiera e Output per schermo
+# FLUSSO DEI DATI (I/O)
+30. Dati: Input da tastiera e Output a schermo
 31. Lettura e scrittura file
 32. Formattazione catene e manipolazione testo
 
 ---
 
-# PROGETTI POO 
+# PROGETTI OOP
 33. Biblioteca di libri
 34. Negozio di Animali
 35. Amministrazione e gestione di veicoli
@@ -84,7 +84,7 @@ STRUTTURA DEL CORSO:
 41. Librerie OS e SYS
 42. Libreria Request
 43. Libreria Urlib3
-44. Libreria Threading e multiprocessing
+44. Libreria Threading e Multiprocessing
 
 ---
 
@@ -97,8 +97,8 @@ STRUTTURA DEL CORSO:
 ---
 
 # PYTHON OFFENSIVO
-49. Prima di Explotare
-50. Creazione scan di porte
+49. Pre-Exploitation
+50. Creazione Port Scanner
 51. Creazione programma che cambia MAC
 52. Creazione scanner di rete (ICMP)
 53. Creazione di un avvelenatore ARP (ARP Spoofer) con Scapy
@@ -106,7 +106,7 @@ STRUTTURA DEL CORSO:
 55. Creazione Tracker immagini (HTTP image sniffer) con mitmdump
 56. Creazione DNS Spoofer con scapy e NetfilterQueue
 57. Creazione di un manipolatore e intercettatore di traffico (Traffic Hijacking)
-58. Creazionedi un Keylogger
+58. Creazione di un Keylogger
 59. Creazione di un Malware
 60. Creazione di una Backdoor e Command Control (C&C)
 61. Creazione di una Forward Shell
