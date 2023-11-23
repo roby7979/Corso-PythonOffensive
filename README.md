@@ -40,7 +40,7 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# PROGRAMMAZIONE ORIENTATA A OGGETTI (OOP)
+# PROGRAMMAZIONE ORIENTATA A OGGETTI (POO)
 21. Classi e Oggetti
 22. Metodo statico e Metodo classe
 23. Self
@@ -64,7 +64,7 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# PROGETTI OOP
+# PROGETTI POO
 33. Biblioteca di libri
 34. Negozio di Animali
 35. Amministrazione e gestione di veicoli
