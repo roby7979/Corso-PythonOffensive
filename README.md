@@ -58,7 +58,7 @@ STRUTTURA DEL CORSO:
 ---
 
 # ENTRATA E USCITA DATI
-30. Entrata per tastiera e uscita per schermo
+30. Dati: Input per tastiera e Output per schermo
 31. Lettura e scrittura file
 32. Formattazione catene e manipolazione testo
 
