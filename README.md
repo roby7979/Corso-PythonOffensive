@@ -40,18 +40,18 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# PROGRAMMAZIONE ORIENTATA A OGETTI (POO)
-21. Classi e Ogetti
+# PROGRAMMAZIONE ORIENTATA A OGGETTI (POO)
+21. Classi e Oggetti
 22. Metodo statico e Metodo Classe
 23. Uso del Self
 24. Erenzia e Polimorfismo
 25. Incapsulamento e metodi speciali
-26. Decoratorie proprieta
+26. Decorazioni proprieta
 
 ---
 
 # MODULI e PACCHETTI IN PYTHON
-27. Ottimizzazione del codicenei moduli
+27. Ottimizzazione del codice nei moduli
 28. Importare e usare moduli
 29. Creazione e distribuzione dei pacchetti
 
