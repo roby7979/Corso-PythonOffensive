@@ -44,7 +44,7 @@ STRUTTURA DEL CORSO:
 21. Classi e Oggetti
 22. Metodo statico e Metodo Classe
 23. Uso del Self
-24. Erenzia e Polimorfismo
+24. Eredita' e Polimorfismo
 25. Incapsulamento e metodi speciali
 26. Decorazioni proprieta
 
