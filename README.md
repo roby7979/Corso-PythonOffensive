@@ -50,7 +50,7 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# MODULI e PACCHETTI IN PYTHON
+# MODULI E PACCHETTI IN PYTHON
 27. Ottimizzazione del codice nei moduli
 28. Importare e usare moduli
 29. Creazione e distribuzione dei pacchetti
