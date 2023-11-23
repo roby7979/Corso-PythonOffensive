@@ -33,7 +33,7 @@ STRUTTURA DEL CORSO:
 
 # STRUTTURA DEI DATI
 16. Le Liste
-17. LE Tuple
+17. Le Tuple
 18. I Sets
 19. I Dizionari
 20. Progetto Videogioco
@@ -42,7 +42,7 @@ STRUTTURA DEL CORSO:
 
 # PROGRAMMAZIONE ORIENTATA A OGETTI (POO)
 21. Classi e Ogetti
-22. Metodo statico e MEdico Classe
+22. Metodo statico e Metodo Classe
 23. Uso del Self
 24. Erenzia e Polimorfismo
 25. Incapsulamento e metodi speciali
