@@ -13,16 +13,9 @@
 STRUTTURA DEL CORSO:
 
 # CONCETTI DI BASE
-1. Introduzione
-2. Differenza tra Python2 e Python3, uso del PIP
-3. Print e esercizi
-4. Strings e esercizi
-5. Input e esercizi
-6. Primo progetto
-7. Interprete di Python
-8. Shebang e convenzioni
-9. Variabili e tipi di dati
-10. Operatori basici
+0. Introduzione a Python
+2. Variabili e Tipo di Dati
+10. Operazioni basiche
 11. Formattazione String
 12. Controllo del flusso
 13. Funzioni e ambito delle variabili
