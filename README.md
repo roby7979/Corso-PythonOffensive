@@ -3,10 +3,10 @@
 ---
 
 ### Rimanete aggiornati sui nostri social:
-1. Discord: https://discord.gg/FEjgBMdAeA
-2. Twitter: https://twitter.com/ModernNaval
-3. Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
-4. Twitch: https://www.twitch.tv/roby7979
+1. [Discord:](https://discord.gg/FEjgBMdAeA)
+2. [Twitter:](https://twitter.com/ModernNaval)
+3. [Youtube:](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ)
+4. [Twitch:](https://www.twitch.tv/roby7979)
 
 ---
 
