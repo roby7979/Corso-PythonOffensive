@@ -17,7 +17,7 @@ STRUTTURA DEL CORSO:
 2. Variabili e Tipo di Dati
 10. Operazioni basiche
 11. Formattazione String
-12. Controllo del flusso
+12. Controllo del flusso - Condizionali e Cicli
 13. Funzioni e ambito delle variabili
 14. Funzioni Lambda anonime
 15. Errori e eccezioni
@@ -37,9 +37,9 @@ STRUTTURA DEL CORSO:
 21. Classi e Oggetti
 22. Metodo statico e Metodo classe
 23. Self
-24. Ereditarietà e Polimorfismo
+24. Polimorfismo 
 25. Incapsulamento e metodi speciali
-26. Decorator
+26. Decoratori
 
 ---
 
@@ -53,15 +53,15 @@ STRUTTURA DEL CORSO:
 # FLUSSO DEI DATI (I/O)
 30. Dati: Input da tastiera e Output a schermo
 31. Lettura e scrittura file
-32. Formattazione catene e manipolazione testo
+32. Formattazione e manipolazione testo
 
 ---
 
 # PROGETTI POO
-33. Biblioteca di libri
-34. Negozio di Animali
-35. Amministrazione e gestione di veicoli
-36. Gestore di note
+33. Programma Biblioteca
+34. Programma Negozio di Animali
+35. Programma Amministrazione e gestione di veicoli
+36. Programma Gestore di note
 
 ---
 
