@@ -14,7 +14,7 @@ STRUTTURA DEL CORSO:
 
 # CONCETTI DI BASE
 0. [Introduzione a Python](https://youtu.be/Q6OCBq2nyzs?si=OpkfXheRhnHfNCxY)
-2. [Variabili e Tipo di Dati]()
+2. [Variabili e Tipo di Dati](https://youtu.be/qOiCHSQSASU)
 10. Operazioni basiche
 11. Formattazione String
 12. Controllo del flusso - Condizionali e Cicli
