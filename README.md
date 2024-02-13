@@ -14,22 +14,19 @@ STRUTTURA DEL CORSO:
 
 # CONCETTI DI BASE
 0. [Introduzione a Python](https://youtu.be/Q6OCBq2nyzs?si=OpkfXheRhnHfNCxY)
-2. [Variabili e Tipo di Dati](https://youtu.be/qOiCHSQSASU)
-10. Operazioni basiche
-11. Formattazione String
-12. Controllo del flusso - Condizionali e Cicli
-13. Funzioni e ambito delle variabili
-14. Funzioni Lambda anonime
-15. Errori e eccezioni
+1. [Variabili e Tipo di Dati](https://youtu.be/qOiCHSQSASU)
+2. [String Formatting, Cicli e Condizionali]
+3. Le Funzioni e ambito delle variabili
+4. Come gestire errori e eccezioni
 
 ---
 
 # STRUTTURA DEI DATI
-16. Le Liste
-17. Le Tuple
-18. I Sets
-19. I Dizionari
-20. Progetto Videogioco
+5. Le Liste
+6. Le Tuple
+7. I Sets
+8. I Dizionari
+9. Progetto Videogioco
 
 ---
 
