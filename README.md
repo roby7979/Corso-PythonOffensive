@@ -26,7 +26,7 @@ STRUTTURA DEL CORSO:
 6. Le Tuple
 7. I Sets
 8. I Dizionari
-9. Progetto Videogioco
+9. Progetto per Videogiochi
 
 ---
 
