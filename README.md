@@ -15,8 +15,8 @@ STRUTTURA DEL CORSO:
 # CONCETTI DI BASE
 0. [Introduzione a Python](https://youtu.be/Q6OCBq2nyzs?si=OpkfXheRhnHfNCxY)
 1. [Variabili e Tipo di Dati](https://youtu.be/qOiCHSQSASU)
-2. [String Formatting, Cicli e Condizionali]
-3. Le Funzioni e ambito delle variabili
+2. [String Formatting, Cicli e Condizionali](https://youtu.be/4DFQM6VIR5Y?si=OPnFQLcDHekSgBll)
+3. [Le Funzioni e ambito delle variabili](https://youtu.be/KB3V8ZcMqn4)
 4. Come gestire errori e eccezioni
 
 ---
