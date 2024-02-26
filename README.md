@@ -17,7 +17,7 @@ STRUTTURA DEL CORSO:
 1. [Variabili e Tipo di Dati](https://youtu.be/qOiCHSQSASU)
 2. [String Formatting, Cicli e Condizionali](https://youtu.be/4DFQM6VIR5Y?si=OPnFQLcDHekSgBll)
 3. [Le Funzioni e ambito delle variabili](https://youtu.be/KB3V8ZcMqn4)
-4. Come gestire errori e eccezioni
+4. [Come gestire errori e eccezioni](https://youtu.be/YcXm44sbpg0?si=xHpMwiegmGTXdG48)
 
 ---
 
