@@ -22,11 +22,10 @@ STRUTTURA DEL CORSO:
 ---
 
 # STRUTTURA DEI DATI
-5. [Le Liste](https://youtu.be/qOiCHSQSASU?si=giKUzAQ5JIUTVHEl)
-6. [Le Tuple](https://youtu.be/ezoV973Up10)
-7. I Sets
-8. I Dizionari
-9. Progetto per Videogiochi
+5. [Le Tuple](https://youtu.be/ezoV973Up10)
+6. [I Sets](https://youtu.be/Uqdai-kv23Y)
+7. I Dizionari
+8. Progetto per Videogiochi
 
 ---
 
