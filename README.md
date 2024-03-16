@@ -30,12 +30,12 @@ STRUTTURA DEL CORSO:
 ---
 
 # PROGRAMMAZIONE ORIENTATA A OGGETTI (POO)
-21. Classi e Oggetti
-22. Metodo statico e Metodo classe
-23. Self
-24. Polimorfismo 
-25. Incapsulamento e metodi speciali
-26. Decoratori
+9. [Classi e Oggetti]()
+10. Metodo statico e Metodo classe
+11. Self
+12. Polimorfismo 
+13. Incapsulamento e metodi speciali
+14. Decoratori
 
 ---
 
