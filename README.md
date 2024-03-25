@@ -31,7 +31,7 @@ STRUTTURA DEL CORSO:
 
 # PROGRAMMAZIONE ORIENTATA A OGGETTI (POO)
 9. [Classi e Oggetti](https://youtu.be/rF1o7QqghwM)
-10. Metodo statico e Metodo classe
+10. [Metodo statico e Metodo classe](https://youtu.be/OHza81MCcY0)
 11. Uso del Self
 12. Eredita' e Polimorfismo 
 13. Incapsulamento e metodi speciali
