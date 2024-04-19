@@ -34,7 +34,7 @@ STRUTTURA DEL CORSO:
 10. [Metodo statico e Metodo classe](https://youtu.be/OHza81MCcY0)
 11. [Uso del Self](https://youtu.be/2vaVDJdUC0g?si=EUcItc0d7ERfndrX)
 12. [Eredita' e Polimorfismo](https://youtu.be/H7HA6IkytOc) 
-13. Incapsulamento e metodi speciali
+13. [Incapsulamento e metodi speciali](https://youtu.be/dsSsXweEPNo)
 14. Decoratori
 
 ---
