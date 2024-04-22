@@ -35,7 +35,7 @@ STRUTTURA DEL CORSO:
 11. [Uso del Self](https://youtu.be/2vaVDJdUC0g?si=EUcItc0d7ERfndrX)
 12. [Eredita' e Polimorfismo](https://youtu.be/H7HA6IkytOc) 
 13. [Incapsulamento e metodi speciali](https://youtu.be/dsSsXweEPNo)
-14. Decoratori
+14. [Decoratori e Proprieta'](https://youtu.be/XfsOqIdjzro)
 
 ---
 
