@@ -79,9 +79,9 @@ STRUTTURA DEL CORSO:
 
 # CREAZIONE DI APPLICAZIONI DESKTOP CON PYTHON
 33. Introduzione GUI (user)
-34. Sviluppo applicazione GUI con Tkinter
-35. Sviluppo applicazione GUI avanzato con CustomTKinter
-36. Chat Multiusers con GUI e Cifrato E2E
+34. Sviluppo applicazione GUI con Tkinter (Blocco Note)
+35. Sviluppo applicazione GUI avanzato con CustomTKinter (Calcolatrice)
+36. Chat Multiusers con GUI e Cifrato E2E (Chat Multiutente)
 
 ---
 
