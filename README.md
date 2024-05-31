@@ -47,56 +47,56 @@ STRUTTURA DEL CORSO:
 ---
 
 # FLUSSO DEI DATI (I/O)
-30. Dati: Input da tastiera e Output a schermo
-31. Lettura e scrittura file
-32. Formattazione e manipolazione testo
+18. Dati: Input da tastiera e Output a schermo
+19. Lettura e scrittura file
+20. Formattazione e manipolazione testo
 
 ---
 
 # PROGETTI POO
-33. Programma Biblioteca
-34. Programma Negozio di Animali
-35. Programma Amministrazione e gestione di veicoli
-36. Programma Gestore di note
+21. Programma Biblioteca
+22. Programma Negozio di Animali
+23. Programma Amministrazione e gestione di veicoli
+24. Programma Gestore di note
 
 ---
 
 # BIBLIOTECA DI PYTHON E STRUMENTI AGGIUNTIVI
-37. Utilizzare data e ora
-38. Espressioni regolari
-39. Utilizzo File e Directory
-40. Connessioni di rete e protocolli
+25. Utilizzare data e ora
+26. Espressioni regolari
+27. Utilizzo File e Directory
+28. Connessioni di rete e protocolli
 
 ---
 
 # UTILIZZO LIBRERIE COMUNI
-41. Librerie OS e SYS
-42. Libreria Request
-43. Libreria Urlib3
-44. Libreria Threading e Multiprocessing
+29. Librerie OS e SYS
+30. Libreria Request
+31. Libreria Urlib3
+32. Libreria Threading e Multiprocessing
 
 ---
 
 # CREAZIONE DI APPLICAZIONI DESKTOP CON PYTHON
-45. Introduzione GUI (user)
-46. Sviluppo applicazione GUI con Tkinter
-47. Sviluppo applicazione GUI avanzato con CustomTKinter
-48. Chat Multiusers con GUI e Cifrato E2E
+33. Introduzione GUI (user)
+34. Sviluppo applicazione GUI con Tkinter
+35. Sviluppo applicazione GUI avanzato con CustomTKinter
+36. Chat Multiusers con GUI e Cifrato E2E
 
 ---
 
 # PYTHON OFFENSIVO
-49. Pre-Exploitation
-50. Creazione Port Scanner
-51. Creazione programma che cambia MAC
-52. Creazione scanner di rete (ICMP)
-53. Creazione di un avvelenatore ARP (ARP Spoofer) con Scapy
-54. Creazione Tracker richieste HTTP (HTTP sniffer)
-55. Creazione Tracker immagini (HTTP image sniffer) con mitmdump
-56. Creazione DNS Spoofer con scapy e NetfilterQueue
-57. Creazione di un manipolatore e intercettatore di traffico (Traffic Hijacking)
-58. Creazione di un Keylogger
-59. Creazione di un Malware
-60. Creazione di una Backdoor e Command Control (C&C)
-61. Creazione di una Forward Shell
-62. Esame Finale
+37. Pre-Exploitation
+38. Creazione Port Scanner
+39. Creazione programma che cambia MAC
+40. Creazione scanner di rete (ICMP)
+41. Creazione di un avvelenatore ARP (ARP Spoofer) con Scapy
+42. Creazione Tracker richieste HTTP (HTTP sniffer)
+43. Creazione Tracker immagini (HTTP image sniffer) con mitmdump
+44. Creazione DNS Spoofer con scapy e NetfilterQueue
+45. Creazione di un manipolatore e intercettatore di traffico (Traffic Hijacking)
+46. Creazione di un Keylogger
+47. Creazione di un Malware
+48. Creazione di una Backdoor e Command Control (C&C)
+49. Creazione di una Forward Shell
+50. Esame Finale
