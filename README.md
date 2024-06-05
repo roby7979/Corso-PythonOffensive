@@ -42,7 +42,7 @@ STRUTTURA DEL CORSO:
 # MODULI E PACCHETTI IN PYTHON
 15. [Organizzare il codice con i moduli](https://youtu.be/aHw_GNHrlxA)
 16. [Importare e usare moduli](https://youtu.be/b-mZoS4owMg)
-17. Creazione e distribuzione dei pacchetti
+17. [Creazione e distribuzione dei pacchetti](https://youtu.be/5Qk3VaxLwk8)
 
 ---
 
