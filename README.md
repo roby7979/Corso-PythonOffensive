@@ -47,7 +47,7 @@ STRUTTURA DEL CORSO:
 ---
 
 # FLUSSO DEI DATI (I/O)
-18. Dati: Input da tastiera e Output a schermo
+18. [Dati: Input da tastiera e Output a schermo](https://youtu.be/P5QVZ5EVDMM)
 19. Lettura e scrittura file
 20. Formattazione e manipolazione testo
 
