@@ -80,8 +80,8 @@ STRUTTURA DEL CORSO:
 # CREAZIONE DI APPLICAZIONI DESKTOP CON PYTHON
 33. Introduzione GUI (user)
 34. Sviluppo applicazione GUI con Tkinter (Blocco Note)
-35. Sviluppo applicazione GUI avanzato con CustomTKinter (Calcolatrice)
-36. Chat Multiusers con GUI e Cifrato E2E (Chat Multiutente)
+35. Sviluppo applicazione GUI avanzato con CustomTKinter (Calcolatrice) - SOLO ABBONATI
+36. Chat Multiusers con GUI e Cifrato E2E (Chat Multiutente) - SOLO ABBONATI
 
 ---
 
@@ -95,8 +95,7 @@ STRUTTURA DEL CORSO:
 43. Creazione Tracker immagini (HTTP image sniffer) con mitmdump
 44. Creazione DNS Spoofer con scapy e NetfilterQueue
 45. Creazione di un manipolatore e intercettatore di traffico (Traffic Hijacking)
-46. Creazione di un Keylogger
-47. Creazione di un Malware
-48. Creazione di una Backdoor e Command Control (C&C)
+46. Creazione di un Keylogger - SOLO ABBONATI
+47. Creazione di un Malware - SOLO ABBONATI
+48. Creazione di una Backdoor e Command Control (C&C) - SOLO BBONATI
 49. Creazione di una Forward Shell
-50. Esame Finale
