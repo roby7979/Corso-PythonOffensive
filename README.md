@@ -1,4 +1,4 @@
-# CORSO PYTHON OFFENSIVE ITA 2024 
+# CORSO INTRODUZIOONE AL PYTHON OFFENSIVE ITA 2024 
 
 ---
 
@@ -59,43 +59,4 @@ STRUTTURA DEL CORSO:
 23. [Programma Amministrazione e gestione di veicoli](https://youtu.be/fEHFcmmxLco)
 24. [Programma Gestore di note](https://youtu.be/MZeF7HrndAU)
 
----
 
-# BIBLIOTECA DI PYTHON E STRUMENTI AGGIUNTIVI
-25. Utilizzare data e ora
-26. Espressioni regolari
-27. Utilizzo File e Directory
-28. Connessioni di rete e protocolli
-
----
-
-# UTILIZZO LIBRERIE COMUNI
-29. Librerie OS e SYS
-30. Libreria Request
-31. Libreria Urlib3
-32. Libreria Threading e Multiprocessing
-
----
-
-# CREAZIONE DI APPLICAZIONI DESKTOP CON PYTHON
-33. Introduzione GUI (user)
-34. Sviluppo applicazione GUI con Tkinter (Blocco Note)
-35. Sviluppo applicazione GUI avanzato con CustomTKinter (Calcolatrice) - SOLO ABBONATI
-36. Chat Multiusers con GUI e Cifrato E2E (Chat Multiutente) - SOLO ABBONATI
-
----
-
-# PYTHON OFFENSIVO
-37. Pre-Exploitation
-38. Creazione Port Scanner
-39. Creazione programma che cambia MAC
-40. Creazione scanner di rete (ICMP)
-41. Creazione di un avvelenatore ARP (ARP Spoofer) con Scapy
-42. Creazione Tracker richieste HTTP (HTTP sniffer)
-43. Creazione Tracker immagini (HTTP image sniffer) con mitmdump
-44. Creazione DNS Spoofer con scapy e NetfilterQueue
-45. Creazione di un manipolatore e intercettatore di traffico (Traffic Hijacking)
-46. Creazione di un Keylogger - SOLO ABBONATI
-47. Creazione di un Malware - SOLO ABBONATI
-48. Creazione di una Backdoor e Command Control (C&C) - SOLO BBONATI
-49. Creazione di una Forward Shell
